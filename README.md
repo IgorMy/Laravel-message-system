@@ -17,6 +17,11 @@ php artisan serve # to start the server
 
 ```
 
+## Database diagram
+
+<p align="center"><img src="https://github.com/IgorMy/Laravel-message-system/blob/master/github_images/database.png" width="700px"> </p>
+
+
 ## Users:
 
 ```
