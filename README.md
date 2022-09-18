@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://www.hypertechnologyweb.com/content/images/2022/07/logo_laravel-1.png" height="100px"> </p>
 
-This is my implementation to resolve DelemOcio technical treial [Link](https://github.com/DelemOcio/prueba-tecnica-laravel)
+This is my implementation to resolve DelemOcio technical trial [Link](https://github.com/DelemOcio/prueba-tecnica-laravel)
 
 This implementation is made with Laravel with Laravel Breeze and basic authentication (to save time). As herouku has dropped the free plan this year, it has not been deployed on that service.
 
