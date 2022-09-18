@@ -53,11 +53,11 @@
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 bg-white border-b border-gray-200">
-                    <p>Usuario: {{$message->user()->name}}</p>
-                    <p>Mensaje: {{$message->messages_description}}</p>
+                    <p>User: {{$message->user()->name}}</p>
+                    <p>Message: {{$message->messages_description}}</p>
                 </div>
                 <div class="px-5 py-5">
-                    <p>Archivos:</p>
+                    <p>Files:</p>
                     @foreach ($message->files()->get() as $file)
                         <a class="text-blue-600"" href="{{ asset(str_replace('public/','storage/',$file->files_file_location)) }}">{{$file->files_file_location}}</a></br>
                     @endforeach
