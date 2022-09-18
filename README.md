@@ -7,6 +7,7 @@ This is my implementation to resolve DelemOcio technical treial [Link](https://g
 
 This implementation is made with Laravel with Laravel Breeze and basic authentication (to save time). As herouku has dropped the free plan this year, it has not been deployed on that service.
 
+## Ussage
 To run this implementation you can use the followings commands:
 
 ```bash
@@ -16,7 +17,7 @@ php artisan serve # to start the server
 
 ```
 
-Users:
+## Users:
 
 ```
 prueba@prueba.com - 12345678
@@ -24,3 +25,6 @@ prueba2@prueba.com - 12345678
 prueba3@prueba.com - 12345678
 ```
 
+## Some extra images
+<p align="center"><img src="https://github.com/IgorMy/Laravel-message-system/blob/master/github_images/2022-09-18_13-43.png" width="700px"> </p>
+<p align="center"><img src="https://github.com/IgorMy/Laravel-message-system/blob/master/github_images/2022-09-18_13-45.png" width="700px"> </p>
