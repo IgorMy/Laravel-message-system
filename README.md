@@ -48,3 +48,6 @@ Total: 01:50:50
 - CRUD implementation for all models.
 - As this implementation is made to only solve the problems, there are a lot of functionality that is lost as delete,edit services, messages. Custom messages to show errors or success and more.
 - Unit tests.
+- Better auth system with JWT and cookies.
+- Ajax for pagination and better Front End implementation.
+- And mucho more.
