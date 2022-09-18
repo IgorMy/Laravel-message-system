@@ -50,4 +50,4 @@ Total: 01:50:50
 - Unit tests.
 - Better auth system with JWT and cookies.
 - Ajax for pagination and better Front End implementation.
-- And mucho more.
+- And much more.
