@@ -10,7 +10,10 @@ This implementation is made with Laravel with Laravel Breeze and basic authentic
 Also, it is worth mentioning that only the requested functionality has been developed.
 
 ## Ussage
-To run this implementation you can use the followings commands:
+
+First, specify database connection on .env
+
+Then, to run this implementation you can use the followings commands:
 
 ```bash
 composer install # to install dependencies
