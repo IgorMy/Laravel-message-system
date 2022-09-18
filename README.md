@@ -42,3 +42,9 @@ prueba3@prueba.com - 12345678
 Total: 01:50:50
 
 (Note: Github repository creation/decoration not counted)
+
+## Mising things
+
+- CRUD implementation for all models.
+- As this implementation is made to only solve the problems, there are a lot of functionality that is lost as delete,edit services, messages. Custom messages to show errors or success and more.
+- Unit tests.
