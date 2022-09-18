@@ -5,7 +5,9 @@
 
 This is my implementation to resolve DelemOcio technical trial [Link](https://github.com/DelemOcio/prueba-tecnica-laravel)
 
-This implementation is made with Laravel with Laravel Breeze and basic authentication (to save time). As herouku has dropped the free plan this year, it has not been deployed on that service.
+This implementation is made with Laravel with Laravel Breeze and basic authentication (to save time). As herouku has dropped the free plan this year, it has not been deployed on that service. 
+
+Also, it is worth mentioning that only the requested functionality has been developed.
 
 ## Ussage
 To run this implementation you can use the followings commands:
